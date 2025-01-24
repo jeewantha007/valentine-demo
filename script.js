@@ -170,7 +170,7 @@ document.getElementById('display-1').style.fontWeight = 'bold';
 
 // Add the second romantic message to display-2
 const coupleMessage = document.getElementById('display-2');
-coupleMessage.innerHTML = "We’re now officially a couple! 💑";
+coupleMessage.innerHTML = "We’re now officially a couple! 👩🏻‍❤️‍👨🏻";
 coupleMessage.style.color = 'lightcoral';
 coupleMessage.style.transition = 'opacity 1s, transform 1s';
 
